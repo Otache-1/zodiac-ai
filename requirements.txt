@@ -5,3 +5,4 @@ py3Dmol
 google-genai
 joblib
 ipython_genutils
+scikit-learn
