@@ -3,3 +3,4 @@ rdkit
 stmol
 py3Dmol
 google-generativeai
+joblib
